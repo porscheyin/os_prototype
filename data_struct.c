@@ -1,5 +1,5 @@
 /* 
- * File: data_structure.c
+ * File: data_struct.c
  * Author: Yin Zhang
  * Date: September 11, 2013
  * Description: This file contains the implementation of
