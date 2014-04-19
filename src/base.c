@@ -8,10 +8,10 @@
  Modified by Yin Zhang. October 15th, 2013
  ************************************************************************/
 
+#include <string.h>
 #include "base/global.h"
 #include "base/syscalls.h"
 #include "base/protos.h"
-#include "string.h"
 #include "common.h"
 #include "os_utils.h"
 #include "proc_mgmt.h"
